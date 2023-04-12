@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Onellect", "Onellect\Onellect.csproj", "{132498C5-9E51-4B7C-9987-A8CE438D054C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnellectTest", "Onellect\OnellectTest.csproj", "{132498C5-9E51-4B7C-9987-A8CE438D054C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
